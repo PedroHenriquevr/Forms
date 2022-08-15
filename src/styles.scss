@@ -1,10 +1,9 @@
 @import './config-scss/reset.scss';
 
-html {
-  font-family: 'Roboto', sans-serif;
-  background-color: #7794d4;
-}
 
+html{
+  background-color: #7794D4;
+}
 main {
   width: rem-calc(600);
   margin: 0 auto;
